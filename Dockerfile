@@ -7,4 +7,4 @@ RUN clean-install apt-transport-https gnupg1 curl \
     && clean-install \
     xfsprogs \
     open-iscsi \
-    azure-cli \
+    azure-cli
